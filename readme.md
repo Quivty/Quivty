@@ -1,6 +1,6 @@
 # Hi! My name is Franek!
 
-> ## *A bad website is like a grumpy salesperson* ~ Jakob Nielsen
+## *A bad website is like a grumpy salesperson* ~ Jakob Nielsen
 
 My name is Franek and I'm a 15 year old who specialized in web design.
 
